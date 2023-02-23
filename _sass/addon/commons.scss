@@ -436,7 +436,6 @@ i { /* fontawesome icons */
 .post-content {
   font-size: 2rem;
   text-align: justify;
-  text-justify: inter-word;
   margin-top: 2rem;
   overflow-wrap: break-word;
 
@@ -1419,6 +1418,10 @@ $sidebar-display: "sidebar-display";
       margin-top: 3rem;
     }
   }
+
+  .post-content {
+    font-size: 5vw;
+  }
 } /* max-width: 849px */
 
 @media all and (max-width: 849px) and (orientation: portrait) {
@@ -1431,6 +1434,10 @@ $sidebar-display: "sidebar-display";
 @media all and (min-width: 577px) and (max-width: 1199px) {
   footer .d-flex > div {
     width: 312px;
+  }
+
+  .post-content {
+    font-size: 3vw;
   }
 }
 
