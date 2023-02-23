@@ -436,11 +436,12 @@ i { /* fontawesome icons */
 .post-content {
   font-size: 2rem;
   text-align: justify;
+  text-justify: inter-word;
   margin-top: 2rem;
   overflow-wrap: break-word;
 
   h1, h2, h3, h4, h5 {
-    text-align: left;
+    align-self: left;
   }
 
   a {
