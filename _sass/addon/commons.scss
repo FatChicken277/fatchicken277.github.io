@@ -442,6 +442,16 @@ i { /* fontawesome icons */
 
   h1, h2, h3, h4, h5 {
     text-align: left;
+    margin-bottom: 2rem;
+  }
+
+  ol, ul {
+    padding: 0.5rem 1rem 0.5rem 0;
+    margin-left: 1rem;
+  }
+
+  ol > li::marker {
+    font-weight: bold;
   }
 
   a {
