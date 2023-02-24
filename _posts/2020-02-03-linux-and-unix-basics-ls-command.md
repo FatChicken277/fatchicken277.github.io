@@ -4,7 +4,7 @@ title:  "Linux basics: Ls Command"
 date: 2020-02-03 11:10:00 #YYYY-MM-DD HH:MM:SS
 
 categories: [Linux basics]
-tags: [linux]
+tags: [Linux]
 
 image: /assets/img/posts/2020-02-03-linux-basics-ls-command/banner.png
 ---
