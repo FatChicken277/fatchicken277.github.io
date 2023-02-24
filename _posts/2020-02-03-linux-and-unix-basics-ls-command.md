@@ -65,4 +65,5 @@ So the structure of the command “ls *.c” it means that anything ending in .c
 
 Finally we can vary the previous command and any other with the parameters seen before at the beginning of the blog.
 
+---
 I hope this information has been to the liking of all the viewers, and **RTFM** :)
